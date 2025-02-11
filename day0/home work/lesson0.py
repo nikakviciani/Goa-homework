@@ -65,4 +65,8 @@ forward(30)
 left(90)
 
 
+<<<<<<< HEAD
 exitonclick()
+=======
+exitonclick()
+>>>>>>> edf197acfceb2ac2c2b1fa10cc8c406d2f710f9d
