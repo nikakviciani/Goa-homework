@@ -1,3 +1,4 @@
+print("home")
 from turtle import *
 speed(100)
 color("red")
