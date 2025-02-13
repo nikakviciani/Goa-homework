@@ -1,3 +1,3 @@
 name="ნიკა"
-გვარი="კვიციანი"
-print( name + გვარი)
+surname ="კვიციანი"
+print( name + surname)
