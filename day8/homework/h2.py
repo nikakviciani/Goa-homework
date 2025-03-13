@@ -1,0 +1,8 @@
+num1=(int(input("first :")))
+num2=(float(input("seqend :")))
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 / num2)
+print(num1**num2)
+print(num1%num2)

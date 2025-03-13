@@ -1,0 +1,25 @@
+s1=input()
+s2=input()
+s3=input()
+s4=input()
+s5=input()
+s6=input()
+s7=input()
+s8=input()
+s9=input()
+s10=input()
+
+print(s1+s2)
+print(s3+s4)
+print(s5+s6)
+print(s7+s8)
+print(s9+s10)
+
+
+num1=(int(input("first")))
+num2=(int(input("seqend")))
+print(num1 + num2)
+print(num1 - num2)
+print(num1 * num2)
+print(num1 / num2)
+
